@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"AAA",
+		"AAA",
+		"AAA"
+	],
+	
+	"key":
+	{
+		"A":
+		{
+			"item":"tm:mythril"
+		}
+	},
+	
+	"result":
+	{
+		"item": "tm:mythril_block",
+		"count": 1
+	}
+}

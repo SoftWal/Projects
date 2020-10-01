@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "ASA",
+        " S "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "tm:azurite_ingot"
+        },
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:azurite_battle_axe",
+        "count": 1
+    }
+
+}

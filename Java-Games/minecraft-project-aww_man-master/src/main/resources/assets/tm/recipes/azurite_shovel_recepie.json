@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " A ",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "tm:azurite_ingot"
+        },
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:azurite_shovel",
+        "count": 1
+    }
+
+}

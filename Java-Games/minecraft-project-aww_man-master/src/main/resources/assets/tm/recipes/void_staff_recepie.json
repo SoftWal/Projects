@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PCP",
+        " B ",
+        " B "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:end_crystal"
+        },
+         "P":
+        {
+            "item": "minecraft:ender_pearl"
+        },
+        "B":
+        {
+        	"item": "minecraft:blaze_rod"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:void_staff",
+        "count": 1
+    }
+
+}

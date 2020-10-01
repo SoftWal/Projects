@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " AS",
+        "A S",
+        " AS"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "tm:azurite_ingot"
+        },
+        "S":
+        {
+        	"item": "minecraft:string"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:azurite_bow",
+        "count": 1
+    }
+
+}

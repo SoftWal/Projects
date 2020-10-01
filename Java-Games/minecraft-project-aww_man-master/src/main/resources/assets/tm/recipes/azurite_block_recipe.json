@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"AAA",
+		"AAA",
+		"AAA"
+	],
+	
+	"key":
+	{
+		"A":
+		{
+			"item":"tm:azurite_ingot"
+		}
+	},
+	
+	"result":
+	{
+		"item": "tm:azurite_block",
+		"count": 1
+	}
+}

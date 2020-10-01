@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+	
+	{
+		"item": "tm:mythril_block"
+	}
+	
+	],
+	
+    "result":
+    {
+        "item": "tm:mythril",
+        "count": 9
+    }
+}

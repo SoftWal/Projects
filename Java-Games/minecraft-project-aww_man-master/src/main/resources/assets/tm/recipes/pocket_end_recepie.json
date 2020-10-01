@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "EME",
+        "APA",
+        "EME"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "tm:azurite_ingot"
+        },
+        "P":
+        {
+            "item": "minecraft:ender_pearl"
+        },
+        "E":
+        {
+            "item": "minecraft:end_stone"
+        },
+        "M":
+        {
+        	"item": "tm:mythril"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:pocket_end",
+        "count": 1
+    }
+
+}

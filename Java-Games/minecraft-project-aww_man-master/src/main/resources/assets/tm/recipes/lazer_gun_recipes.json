@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"DAM",
+		"ABA",
+		"  A"
+	],
+	
+	"key":
+	{
+		"A":
+		{
+			"item":"tm:azurite_ingot"
+		},
+		
+		"B":
+		{
+			"item":"tm:azurite_bow"
+		},
+		
+		"M":
+		{
+			"item":"tm:mythril"
+		},
+		
+		"D":
+		{
+			"item":"minecraft:diamond"
+		}
+	},
+	
+	"result":
+	{
+		"item": "tm:lazer_gun",
+		"count": 1
+	}
+}

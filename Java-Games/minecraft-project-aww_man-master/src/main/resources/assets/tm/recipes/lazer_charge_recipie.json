@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" M ",
+		" E ",
+		" M "
+	],
+	
+	"key":
+	{
+		"M":
+		{
+			"item":"tm:mythril"
+		},
+		
+		"E":
+		{
+			"item":"minecraft:ender_pearl"
+		}
+	},
+	
+	"result":
+	{
+		"item": "tm:lazer_charge",
+		"count": 5
+	}
+}

@@ -1,0 +1,42 @@
+
+//Items
+item.azurite_ingot.name=Azurite Ingot
+item.mythril.name=Mythril
+item.azurite_sword.name=Azurite Sword
+item.azurite_axe.name=Azurite Axe
+item.azurite_pickaxe.name=Azurite Pickaxe
+item.azurite_bow.name=Azurite Bow
+item.azurite_arrow.name=Azurite Arrow
+item.lazer_gun.name=Laser Gun
+item.lazer_charge.name=Laser Charge
+item.azurite_shovel.name=Azurite Shovel
+item.azurite_hoe.name=Azurite Hoe
+item.azurite_battle_axe.name=Azurite Battle-Axe
+item.void_staff.name=Void Staff
+item.pocket_end.name=Pocket End
+item.pocket_bed.name=Pocket Bed
+
+//Blocks
+tile.azurite_block.name=Block of Azurite
+tile.azurite_ore.name=Azurite Ore
+tile.mythril_ore.name=Mythril Ore
+tile.mythril_block.name=Block of Mythril
+
+
+//Tabs
+itemGroup.modtab=Teleportation Mod Combat
+itemGroup.modarmortab=Teleportation Mod Armor
+itemGroup.modblockstab=Teleportation Mod Blocks
+itemGroup.modmaterialtab=Teleportation Mod Materials
+itemGroup.modtooltab=Teleportation Mod Tools
+
+
+//Armor
+item.mythril_helmet.name= Mythril Helmet
+item.mythril_chestplate.name= Mythril Chestplate
+item.mythril_boots.name= Mythril Boots
+item.mythril_leggings.name= Mythril Leggings
+
+//Entitty
+entity.azurite_arrow.name=Azurite Arrow
+entity.beam.name=Beam

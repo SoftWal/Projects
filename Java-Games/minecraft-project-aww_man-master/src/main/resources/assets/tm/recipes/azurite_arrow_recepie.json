@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " A ",
+        " S ",
+        " F "
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "tm:azurite_ingot"
+        },
+         "F":
+        {
+            "item": "minecraft:feather"
+        },
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:azurite_arrow",
+        "count": 4
+    }
+
+}

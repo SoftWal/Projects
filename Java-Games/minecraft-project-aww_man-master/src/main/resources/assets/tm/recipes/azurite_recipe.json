@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients":
+	[
+	
+	{
+		"item": "tm:azurite_block"
+	}
+	
+	],
+	
+    "result":
+    {
+        "item": "tm:azurite_ingot",
+        "count": 9
+    }
+}
